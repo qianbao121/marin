@@ -1,0 +1,119 @@
+[2017-02-24 19:56:27] System.Exception: 端口已被占用
+   在 Shadowsocks.Controller.Listener.Start(Configuration config)
+   在 Shadowsocks.Controller.ShadowsocksController.Reload()
+[2017-02-24 20:05:25] Shadowsocks started
+[2017-02-24 20:05:29] Shadowsocks started
+[2017-02-24 20:05:36] System.ArgumentException: No server configured
+   在 Shadowsocks.Controller.TCPHandler.CreateRemote()
+   在 Shadowsocks.Controller.TCPHandler.StartConnect()
+[2017-02-24 20:05:45] System.ArgumentException: No server configured
+   在 Shadowsocks.Controller.TCPHandler.CreateRemote()
+   在 Shadowsocks.Controller.TCPHandler.StartConnect()
+[2017-02-24 20:05:46] System.ArgumentException: No server configured
+   在 Shadowsocks.Controller.TCPHandler.CreateRemote()
+   在 Shadowsocks.Controller.TCPHandler.StartConnect()
+[2017-02-24 20:06:11] System.ArgumentException: No server configured
+   在 Shadowsocks.Controller.TCPHandler.CreateRemote()
+   在 Shadowsocks.Controller.TCPHandler.StartConnect()
+[2017-02-24 20:06:11] System.ArgumentException: No server configured
+   在 Shadowsocks.Controller.TCPHandler.CreateRemote()
+   在 Shadowsocks.Controller.TCPHandler.StartConnect()
+[2017-02-24 20:06:11] System.ArgumentException: No server configured
+   在 Shadowsocks.Controller.TCPHandler.CreateRemote()
+   在 Shadowsocks.Controller.TCPHandler.StartConnect()
+[2017-02-24 20:06:11] System.ArgumentException: No server configured
+   在 Shadowsocks.Controller.TCPHandler.CreateRemote()
+   在 Shadowsocks.Controller.TCPHandler.StartConnect()
+[2017-02-24 20:06:11] System.ArgumentException: No server configured
+   在 Shadowsocks.Controller.TCPHandler.CreateRemote()
+   在 Shadowsocks.Controller.TCPHandler.StartConnect()
+[2017-02-24 20:06:11] System.ArgumentException: No server configured
+   在 Shadowsocks.Controller.TCPHandler.CreateRemote()
+   在 Shadowsocks.Controller.TCPHandler.StartConnect()
+[2017-02-24 20:06:11] System.ArgumentException: No server configured
+   在 Shadowsocks.Controller.TCPHandler.CreateRemote()
+   在 Shadowsocks.Controller.TCPHandler.StartConnect()
+[2017-02-24 20:06:11] System.ArgumentException: No server configured
+   在 Shadowsocks.Controller.TCPHandler.CreateRemote()
+   在 Shadowsocks.Controller.TCPHandler.StartConnect()
+[2017-02-24 20:06:11] System.ArgumentException: No server configured
+   在 Shadowsocks.Controller.TCPHandler.CreateRemote()
+   在 Shadowsocks.Controller.TCPHandler.StartConnect()
+[2017-02-24 20:06:11] System.ArgumentException: No server configured
+   在 Shadowsocks.Controller.TCPHandler.CreateRemote()
+   在 Shadowsocks.Controller.TCPHandler.StartConnect()
+[2017-02-24 20:06:11] System.ArgumentException: No server configured
+   在 Shadowsocks.Controller.TCPHandler.CreateRemote()
+   在 Shadowsocks.Controller.TCPHandler.StartConnect()
+[2017-02-24 20:06:11] System.ArgumentException: No server configured
+   在 Shadowsocks.Controller.TCPHandler.CreateRemote()
+   在 Shadowsocks.Controller.TCPHandler.StartConnect()
+[2017-02-24 20:06:13] System.ArgumentException: No server configured
+   在 Shadowsocks.Controller.TCPHandler.CreateRemote()
+   在 Shadowsocks.Controller.TCPHandler.StartConnect()
+[2017-02-24 20:06:13] System.ArgumentException: No server configured
+   在 Shadowsocks.Controller.TCPHandler.CreateRemote()
+   在 Shadowsocks.Controller.TCPHandler.StartConnect()
+[2017-02-24 20:06:13] System.ArgumentException: No server configured
+   在 Shadowsocks.Controller.TCPHandler.CreateRemote()
+   在 Shadowsocks.Controller.TCPHandler.StartConnect()
+[2017-02-24 20:06:13] System.ArgumentException: No server configured
+   在 Shadowsocks.Controller.TCPHandler.CreateRemote()
+   在 Shadowsocks.Controller.TCPHandler.StartConnect()
+[2017-02-24 20:06:13] System.ArgumentException: No server configured
+   在 Shadowsocks.Controller.TCPHandler.CreateRemote()
+   在 Shadowsocks.Controller.TCPHandler.StartConnect()
+[2017-02-24 20:06:13] System.ArgumentException: No server configured
+   在 Shadowsocks.Controller.TCPHandler.CreateRemote()
+   在 Shadowsocks.Controller.TCPHandler.StartConnect()
+[2017-02-24 20:06:13] System.ArgumentException: No server configured
+   在 Shadowsocks.Controller.TCPHandler.CreateRemote()
+   在 Shadowsocks.Controller.TCPHandler.StartConnect()
+[2017-02-24 20:06:13] System.ArgumentException: No server configured
+   在 Shadowsocks.Controller.TCPHandler.CreateRemote()
+   在 Shadowsocks.Controller.TCPHandler.StartConnect()
+[2017-02-24 20:06:13] System.ArgumentException: No server configured
+   在 Shadowsocks.Controller.TCPHandler.CreateRemote()
+   在 Shadowsocks.Controller.TCPHandler.StartConnect()
+[2017-02-24 20:06:13] System.ArgumentException: No server configured
+   在 Shadowsocks.Controller.TCPHandler.CreateRemote()
+   在 Shadowsocks.Controller.TCPHandler.StartConnect()
+[2017-02-24 20:06:13] System.ArgumentException: No server configured
+   在 Shadowsocks.Controller.TCPHandler.CreateRemote()
+   在 Shadowsocks.Controller.TCPHandler.StartConnect()
+[2017-02-24 20:06:13] System.ArgumentException: No server configured
+   在 Shadowsocks.Controller.TCPHandler.CreateRemote()
+   在 Shadowsocks.Controller.TCPHandler.StartConnect()
+[2017-02-24 20:06:14] System.ArgumentException: No server configured
+   在 Shadowsocks.Controller.TCPHandler.CreateRemote()
+   在 Shadowsocks.Controller.TCPHandler.StartConnect()
+[2017-02-24 20:06:14] System.ArgumentException: No server configured
+   在 Shadowsocks.Controller.TCPHandler.CreateRemote()
+   在 Shadowsocks.Controller.TCPHandler.StartConnect()
+[2017-02-24 20:06:14] System.ArgumentException: No server configured
+   在 Shadowsocks.Controller.TCPHandler.CreateRemote()
+   在 Shadowsocks.Controller.TCPHandler.StartConnect()
+[2017-02-24 20:06:14] System.ArgumentException: No server configured
+   在 Shadowsocks.Controller.TCPHandler.CreateRemote()
+   在 Shadowsocks.Controller.TCPHandler.StartConnect()
+[2017-02-24 20:06:14] System.ArgumentException: No server configured
+   在 Shadowsocks.Controller.TCPHandler.CreateRemote()
+   在 Shadowsocks.Controller.TCPHandler.StartConnect()
+[2017-02-24 20:06:14] System.ArgumentException: No server configured
+   在 Shadowsocks.Controller.TCPHandler.CreateRemote()
+   在 Shadowsocks.Controller.TCPHandler.StartConnect()
+[2017-02-24 20:06:22] System.ArgumentException: No server configured
+   在 Shadowsocks.Controller.TCPHandler.CreateRemote()
+   在 Shadowsocks.Controller.TCPHandler.StartConnect()
+[2017-02-24 20:06:53] System.ArgumentException: No server configured
+   在 Shadowsocks.Controller.TCPHandler.CreateRemote()
+   在 Shadowsocks.Controller.TCPHandler.StartConnect()
+[2017-02-24 20:06:53] System.ArgumentException: No server configured
+   在 Shadowsocks.Controller.TCPHandler.CreateRemote()
+   在 Shadowsocks.Controller.TCPHandler.StartConnect()
+[2017-02-24 20:06:53] System.ArgumentException: No server configured
+   在 Shadowsocks.Controller.TCPHandler.CreateRemote()
+   在 Shadowsocks.Controller.TCPHandler.StartConnect()
+[2017-02-24 20:06:53] System.ArgumentException: No server configured
+   在 Shadowsocks.Controller.TCPHandler.CreateRemote()
+   在 Shadowsocks.Controller.TCPHandler.StartConnect()

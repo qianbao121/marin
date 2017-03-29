@@ -1,0 +1,2 @@
+document.write('');
+//document.write('<p style="text-align:left;padding:4px 0 4px 30px;"><a href="http://j.jikexueyuan.com/train/webdeveloper?hmsr=helloweba_word_jiuye_web_0121" target="_blank" style="font-weight:bold;color:#f30;text-decoration:underline" class="adclick" data-ref="jike_txt">这才是你要学的！0基础4个月成为Web前端工程师，保就业！（最新版）</a></p>');

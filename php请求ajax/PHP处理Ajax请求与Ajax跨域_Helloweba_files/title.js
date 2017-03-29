@@ -1,0 +1,2 @@
+//内容页上横幅728x70
+document.write('<div class="forum-20150311095350 adclick" data-ref="hong_73080"><script charset="utf-8" language="JavaScript" type="text/javascript" src="http://103.249.111.179/data/forum-20150311095350.js"></script></div>');
